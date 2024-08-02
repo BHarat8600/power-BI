@@ -1,2 +1,2 @@
-# power-BI
+# Power-BI
 Power BI Dashboards
